@@ -1,7 +1,6 @@
 ## Hi there, I'm Haytham 👋
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Front-end Developer**
 
 💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
 

@@ -2,19 +2,12 @@
 
 **Front-end Developer**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
+I'am a passionate Front-End Developer with strong experience in building responsive and user-friendly web applications using React.js, Next.js, Tailwind CSS, and TypeScript. I enjoy continuously learning new technologies and collaborating on real-world projects to create creative and effective solutions.
 
 
 
